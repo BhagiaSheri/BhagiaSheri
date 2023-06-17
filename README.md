@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhagiasheri24) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bhagiasheri24) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BhagiaSheri) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=BhagiaSheri&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BhagiaSheri&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BhagiaSheri&theme=great-gatsby&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhagiaSheri&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
