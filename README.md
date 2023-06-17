@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I'm actively looking for a full-time W2 Software Engineer position in the United States. <br>
-🏫 I'm currently pursuing my master's in computer science through distance education at Maharishi International University (MIU) in the United States. <br><br>
+🏫 I'm currently pursuing my master's in computer science through distance education at Maharishi International University (MIU) <br>
 👯 I'm looking to collaborate on impactful software engineering projects or product ideas that involve cutting-edge technologies.
 🤝 I’m looking for help to find my DREAM Job!<br><br>
 🌱 I'm learning about US professional culture, focusing on full-stack development, and exploring Big Data Technologies along with Cloud Services.<br><br>
