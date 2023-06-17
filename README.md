@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 'm currently pursuing my master's in computer science through distance education at Maharishi International University (MIU) in the United States.<br>🏫 I'm pursuing my master's in computer science (distance education) from Maharishi International University (MIU) in the United States. <br>👯 I'm looking to collaborate on exciting software engineering projects or product ideas that involve cutting-edge technologies and have a significant impact.<br>🤝 I’m looking for help to find my DREAM Job!<br>🌱 I'm learning about US professional culture, focusing on full-stack development, and exploring Big Data Technologies along with Cloud Services.<br>💬 We can have a chat about #Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #Cloud, #BestPractices, #Optimizations, #CareerGoals, #WhatInpiresYou, and much more!<br>⚡ Fun fact: In my free time, I enjoy reading personal-development books, writing about my thoughts, sharing my ideas, and talking about #WhatInspiresMe
+🔭 I'm currently pursuing my master's in computer science through distance education at Maharishi International University (MIU) in the United States.<br>🏫 I'm pursuing my master's in computer science (distance education) from Maharishi International University (MIU) in the United States. <br>👯 I'm looking to collaborate on exciting software engineering projects or product ideas that involve cutting-edge technologies and have a significant impact.<br>🤝 I’m looking for help to find my DREAM Job!<br>🌱 I'm learning about US professional culture, focusing on full-stack development, and exploring Big Data Technologies along with Cloud Services.<br>💬 We can have a chat about #Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #Cloud, #BestPractices, #Optimizations, #CareerGoals, #WhatInpiresYou, and much more!<br>⚡ Fun fact: In my free time, I enjoy reading personal-development books, writing about my thoughts, sharing my ideas, and talking about #WhatInspiresMe
 
 
 ## 🌐 Socials:
@@ -25,6 +25,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BhagiaSheri&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BhagiaSheri&icon=0&color=11)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BhagiaSheri&label=Profile%20Views&icon=9&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
