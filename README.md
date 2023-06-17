@@ -1,5 +1,5 @@
 # 💫 About Me:
-#### 🔭 I'm actively looking for a full-time W2 Software Engineer position in the United States. 
+** 🔭 I'm actively looking for a full-time W2 Software Engineer position in the United States. **
 #### 🏫 I'm currently pursuing my master's in computer science through distance education at Maharishi International University (MIU) 
 #### 👯 I'm looking to collaborate on impactful software engineering projects or product ideas that involve cutting-edge technologies. 
 #### 🤝 I’m looking for help to find my DREAM Job! 
