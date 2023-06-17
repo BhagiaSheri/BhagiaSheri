@@ -4,7 +4,7 @@
 👯 I'm looking to collaborate on impactful software engineering projects or product ideas that involve cutting-edge technologies. <br>
 🤝 I’m looking for help to find my DREAM Job! <br>
 🌱 I'm learning about US professional culture, and exploring Big Data Technologies along with Cloud Services. <br>
-### 💬 We can have a chat about #Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #Cloud, #BestPractices, #Optimizations, #CareerGoals, #WhatInpiresYou, and much more!<br><br>
+##### 💬 We can have a chat about #Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #Cloud, #BestPractices, #Optimizations, #CareerGoals, #WhatInpiresYou, and much more!<br><br>
 ⚡ Fun fact: In my free time, I enjoy reading personal-development books, writing about my thoughts, sharing my ideas, and talking about #WhatInspiresMe
 
 ## 🌐 Socials:
