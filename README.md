@@ -1,11 +1,11 @@
 # 💫 About Me:
 🔭 **I'm actively looking for a full-time W2 Software Engineer position in the United States.**
-#### 🏫 I'm currently pursuing my master's in computer science through distance education at Maharishi International University (MIU) 
-#### 👯 I'm looking to collaborate on impactful software engineering projects or product ideas that involve cutting-edge technologies. 
-#### 🤝 I’m looking for help to find my DREAM Job! 
-#### 🌱 I'm learning about US professional culture, and exploring Big Data Technologies along with Cloud Services. 
-#### 💬 We can have a chat about #Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #Cloud, #BestPractices, #Optimizations, #CareerGoals, #WhatInpiresYou, and much more!
-#### ⚡ Fun fact: In my free time, I enjoy reading personal-development books, writing about my thoughts, sharing my ideas, and talking about #WhatInspiresMe
+🏫 **I'm currently pursuing my master's in computer science through distance education at Maharishi International University (MIU)**
+👯 **I'm looking to collaborate on impactful software engineering projects or product ideas that involve cutting-edge technologies.**
+🤝 **I’m looking for help to find my DREAM Job!** 
+🌱 **I'm learning about US professional culture, and exploring Big Data Technologies along with Cloud Services.** 
+💬 **We can have a chat about #Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #Cloud, #BestPractices, #Optimizations, #CareerGoals, #WhatInpiresYou, and much more!**
+**⚡ Fun fact: In my free time, I enjoy reading personal-development books, writing about my thoughts, sharing my ideas, and talking about #WhatInspiresMe✨**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhagiasheri24) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@bhagiasheri24) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/BhagiaSheri) 
