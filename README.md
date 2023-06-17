@@ -17,7 +17,7 @@
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=BhagiaSheri&theme=gruvbox&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BhagiaSheri&theme=gruvbox&hide_border=false) 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhagiaSheri&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=BhagiaSheri&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)
 
