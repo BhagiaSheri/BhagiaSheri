@@ -4,7 +4,7 @@
 🏫 **I'm currently pursuing my Master's in Computer Science through distance education at Maharishi International University.** <br>
 🤝 **I'm looking to collaborate on exciting and impactful projects or product ideas that involve cutting-edge technologies.**<br>
 🌱 **I'm learning about US professional culture as well as exploring Big Data Technologies along with Cloud Services.** <br>
-💬 **We can have a chat about #Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #Cloud, #BestPractices, #Optimizations, #CareerGoals, #WhatInpiresYou, and much more!** <br>
+💬 **We can have a chat about #Technology, #Engineering, #DistributedSystems, #EventDrivenProgramming, #CloudComputing, #IndustryBestPractices, #Optimizations, #CareerGoals, #WhatInpiresYou, and much more!** <br>
 **⚡ Fun fact: In my free time, I enjoy reading personal-development books, writing about my thoughts, sharing my ideas, and talking about #WhatInspiresMe✨** <br>
 
 ## 🌐 Socials:
