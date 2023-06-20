@@ -23,7 +23,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=BhagiaSheri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ Quote of the Day
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 ---
 [![](https://visitcount.itsvg.in/api?id=BhagiaSheri&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
