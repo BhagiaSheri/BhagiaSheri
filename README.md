@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Working as a Software Engineer (Java Developer) in Walmart Global Tech** <br>
+⚡ **Working as a Software Engineer (Java Developer) in Walmart Global Tech.** <br>
 🏫 **I'm currently pursuing my Master's in Computer Science through distance education at Maharishi International University.** <br>
 🤝 **I'm looking to collaborate on exciting and impactful projects or product ideas that involve cutting-edge technologies.**<br>
 🌱 **I'm learning about US professional culture as well as exploring Big Data Technologies along with Cloud Services.** <br>
